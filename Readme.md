@@ -122,18 +122,11 @@ _Texte en italique_
 
 ### Les tableaux
 
-|Fonctionnalité|Utilité|
-|---|---|
-|Templates|Créer des modèles de notes|
-|Excalidraw|Réaliser des schémas|
-|Spaced Repetition|Faciliter les révisions|
-|Tasks|Gérer les tâches|
-|Copilot|Utiliser l'intelligence artificielle|
+| Fonctionnalité    | Utilité                              |
+| ----------------- | ------------------------------------ |
+| Templates         | Créer des modèles de notes           |
+| Excalidraw        | Réaliser des schémas                 |
+| Spaced Repetition | Faciliter les révisions              |
+| Tasks             | Gérer les tâches                     |
+| Copilot           | Utiliser l'intelligence artificielle |
 
-## 6. Conclusion
-
-La réalisation de ce TP m'a permis de découvrir Obsidian et ses différentes possibilités.
-
-J'ai appris à créer un vault, à organiser mes dossiers, à créer des notes, à relier mes informations et à utiliser des outils complémentaires comme Excalidraw et les plugins communautaires.
-
-**Mon petit monde** est un espace personnel que je pourrai continuer à personnaliser et à enrichir selon mes envies, mes objectifs et mes projets.
