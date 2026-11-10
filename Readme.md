@@ -1,6 +1,6 @@
 #  MON PETIT MONDE
 
-> Bienvenue dans mon univers personnel créé avec **Obsidian**.
+ Bienvenue dans mon univers personnel créé avec **Obsidian**.
 
 **Mon petit monde** est le nom du vault que j'ai créé dans le cadre de mon TP sur Obsidian. Il représente mon espace personnel dans lequel je rassemble des informations sur moi, mes passions, mes objectifs et mes projets.
 
