@@ -1,0 +1,1 @@
+Je n'ai pas vraiment de préférence mais je n'aime pas tout ce qui est rose en ce qui concerne la préférence des couleurs mais j'en porte quelques fois. J'aime tout ce qui est univers féminin, esthétique, admirer la beauté féminine mais aucune maitrise de l'esthétique comme le maquillage par exemple . Je regarde quelques fois des images pinterest pour mes choix.
